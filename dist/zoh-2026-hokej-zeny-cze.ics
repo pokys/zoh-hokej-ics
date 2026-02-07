@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//zoh-hokej-2026-ics//CZ
+X-WR-CALNAME:ZOH 2026 – hokej (ženy)
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+SUMMARY:👩 🇺🇸 USA – 🇨🇿 Česko 5:1 (FT)
+DTSTART;TZID=Europe/Prague:20260205T164000
+DTEND;TZID=Europe/Prague:20260205T194000
+UID:589bc25f439bd365f98722608cd047408d9fc2d6@zoh-hokej-ics
+DESCRIPTION:Skupina A\nFiera Milano \, Milan Attendance: 3\,766
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 🇨🇿 Česko – 🇨🇭 Švýcarsko 3:4 (SO)
+DTSTART;TZID=Europe/Prague:20260206T144000
+DTEND;TZID=Europe/Prague:20260206T174000
+UID:85a554fe51a4422fa055fa416c4d3b2ee34a5e19@zoh-hokej-ics
+DESCRIPTION:Skupina A\nPalaItalia Santa Giulia \, Milan Attendance: 8\,927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 🇨🇿 Česko – 🇫🇮 Finsko
+DTSTART;TZID=Europe/Prague:20260208T211000
+DTEND;TZID=Europe/Prague:20260209T001000
+UID:99ce1799be29f0bbb6d38b1af7260a1a6e67b231@zoh-hokej-ics
+DESCRIPTION:Skupina A\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 🇨🇦 Kanada – 🇨🇿 Česko
+DTSTART;TZID=Europe/Prague:20260209T211000
+DTEND;TZID=Europe/Prague:20260210T001000
+UID:7ca8bebdc37fe4b1f36ca376eacdbc70eec80474@zoh-hokej-ics
+DESCRIPTION:Skupina A\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Čtvrtfinále 1
+DTSTART;TZID=Europe/Prague:20260213T164000
+DTEND;TZID=Europe/Prague:20260213T194000
+UID:f028ee199ec936482394b5f809f4aada0af92a80@zoh-hokej-ics
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Čtvrtfinále 2
+DTSTART;TZID=Europe/Prague:20260213T211000
+DTEND;TZID=Europe/Prague:20260214T001000
+UID:5bf45a54fc50784397e8f3fb726cd4ac4cce356a@zoh-hokej-ics
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Čtvrtfinále 3
+DTSTART;TZID=Europe/Prague:20260214T164000
+DTEND;TZID=Europe/Prague:20260214T194000
+UID:e99833e7240be7d61270649a588ad897b670d32e@zoh-hokej-ics
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Čtvrtfinále 4
+DTSTART;TZID=Europe/Prague:20260214T211000
+DTEND;TZID=Europe/Prague:20260215T001000
+UID:125dba5f741f883e625cca744383cad3dae4a7e8@zoh-hokej-ics
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Semifinále 1
+DTSTART;TZID=Europe/Prague:20260216T164000
+DTEND;TZID=Europe/Prague:20260216T194000
+UID:4aafd9f643d33f34a4ba0c7ba2b5420d354f48be@zoh-hokej-ics
+DESCRIPTION:Semifinále\nPalaItalia Santa Giulia \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Semifinále 2
+DTSTART;TZID=Europe/Prague:20260216T211000
+DTEND;TZID=Europe/Prague:20260217T001000
+UID:d4565e0b310d97655de999c0ecce4f3518f95123@zoh-hokej-ics
+DESCRIPTION:Semifinále\nPalaItalia Santa Giulia \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 O bronz 1
+DTSTART;TZID=Europe/Prague:20260219T144000
+DTEND;TZID=Europe/Prague:20260219T174000
+UID:bf15620fdd24bc0bdfabb4a91735ca193d59ce4d@zoh-hokej-ics
+DESCRIPTION:O bronz\nPalaItalia Santa Giulia \, Milan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:👩 Finále 1
+DTSTART;TZID=Europe/Prague:20260219T191000
+DTEND;TZID=Europe/Prague:20260219T221000
+UID:2efc89b1b134bf6ce1c262b136528fb347fc2e77@zoh-hokej-ics
+DESCRIPTION:Finále\nPalaItalia Santa Giulia \, Milan
+END:VEVENT
+END:VCALENDAR
