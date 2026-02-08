@@ -15,7 +15,7 @@ SUMMARY:👩 🇨🇿 Česko – 🇨🇭 Švýcarsko 3:4 (SO)
 DTSTART;TZID=Europe/Prague:20260206T144000
 DTEND;TZID=Europe/Prague:20260206T174000
 UID:85a554fe51a4422fa055fa416c4d3b2ee34a5e19@zoh-hokej-ics
-DESCRIPTION:Skupina A\nPalaItalia Santa Giulia \, Milan Attendance: 8\,927
+DESCRIPTION:Skupina A\nPalaItalia \, Milan Attendance: 8\,927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 🇨🇿 Česko – 🇫🇮 Finsko
@@ -85,14 +85,14 @@ SUMMARY:👩 Semifinále 1
 DTSTART;TZID=Europe/Prague:20260216T164000
 DTEND;TZID=Europe/Prague:20260216T194000
 UID:4aafd9f643d33f34a4ba0c7ba2b5420d354f48be@zoh-hokej-ics
-DESCRIPTION:Semifinále\nPalaItalia Santa Giulia \, Milan
+DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 Semifinále 2
 DTSTART;TZID=Europe/Prague:20260216T211000
 DTEND;TZID=Europe/Prague:20260217T001000
 UID:d4565e0b310d97655de999c0ecce4f3518f95123@zoh-hokej-ics
-DESCRIPTION:Semifinále\nPalaItalia Santa Giulia \, Milan
+DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 1
@@ -127,14 +127,14 @@ SUMMARY:👩 O bronz 1
 DTSTART;TZID=Europe/Prague:20260219T144000
 DTEND;TZID=Europe/Prague:20260219T174000
 UID:bf15620fdd24bc0bdfabb4a91735ca193d59ce4d@zoh-hokej-ics
-DESCRIPTION:O bronz\nPalaItalia Santa Giulia \, Milan
+DESCRIPTION:O bronz\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 Finále 1
 DTSTART;TZID=Europe/Prague:20260219T191000
 DTEND;TZID=Europe/Prague:20260219T221000
 UID:2efc89b1b134bf6ce1c262b136528fb347fc2e77@zoh-hokej-ics
-DESCRIPTION:Finále\nPalaItalia Santa Giulia \, Milan
+DESCRIPTION:Finále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Semifinále 1
