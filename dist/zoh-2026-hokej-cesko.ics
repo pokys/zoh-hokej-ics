@@ -25,11 +25,11 @@ UID:99ce1799be29f0bbb6d38b1af7260a1a6e67b231@zoh-hokej-ics
 DESCRIPTION:Skupina A\nFiera Milano \, Milan Attendance: 3\,805
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇨🇦 Kanada – 🇨🇿 Česko
+SUMMARY:👩 🇨🇦 Kanada – 🇨🇿 Česko 5:1 (FT)
 DTSTART;TZID=Europe/Prague:20260209T211000
 DTEND;TZID=Europe/Prague:20260210T001000
 UID:7ca8bebdc37fe4b1f36ca376eacdbc70eec80474@zoh-hokej-ics
-DESCRIPTION:Skupina A\nFiera Milano \, Milan
+DESCRIPTION:Skupina A\nFiera Milano \, Milan Attendance: 3\,901
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 🇨🇿 Česko – 🇨🇦 Kanada
