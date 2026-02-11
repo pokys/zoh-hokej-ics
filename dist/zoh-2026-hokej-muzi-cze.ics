@@ -36,14 +36,14 @@ SUMMARY:👨 Čtvrtfinále 2
 DTSTART;TZID=Europe/Prague:20260218T164000
 DTEND;TZID=Europe/Prague:20260218T194000
 UID:ed2d6522645eaf12dcfc705c65cdeb10b242172f@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nPalaItalia Santa Giulia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 3
 DTSTART;TZID=Europe/Prague:20260218T181000
 DTEND;TZID=Europe/Prague:20260218T211000
 UID:308d594954b640ab5f49ba0b50af614000a7ad7e@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nPalaItalia Santa Giulia \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 4

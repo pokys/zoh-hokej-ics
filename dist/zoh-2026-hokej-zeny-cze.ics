@@ -35,28 +35,28 @@ BEGIN:VEVENT
 SUMMARY:👩 Čtvrtfinále 1
 DTSTART;TZID=Europe/Prague:20260213T164000
 DTEND;TZID=Europe/Prague:20260213T194000
-UID:f028ee199ec936482394b5f809f4aada0af92a80@zoh-hokej-ics
+UID:51f73424168edaac57e711c5e1b7ee6a15a2067d@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Čtvrtfinále 2
+SUMMARY:👩 🇺🇸 USA – 🇮🇹 Itálie
 DTSTART;TZID=Europe/Prague:20260213T211000
 DTEND;TZID=Europe/Prague:20260214T001000
-UID:5bf45a54fc50784397e8f3fb726cd4ac4cce356a@zoh-hokej-ics
+UID:72e14ca4a08274328641231bc8494ded90f6c3e3@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 Čtvrtfinále 3
 DTSTART;TZID=Europe/Prague:20260214T164000
 DTEND;TZID=Europe/Prague:20260214T194000
-UID:e99833e7240be7d61270649a588ad897b670d32e@zoh-hokej-ics
+UID:231d1490a07d869e941326660a04f8e72a41eaae@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 Čtvrtfinále 4
 DTSTART;TZID=Europe/Prague:20260214T211000
 DTEND;TZID=Europe/Prague:20260215T001000
-UID:125dba5f741f883e625cca744383cad3dae4a7e8@zoh-hokej-ics
+UID:e366dceb23549ae9e927dfef6603737ce804e072@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
