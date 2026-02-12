@@ -4,11 +4,11 @@ PRODID:-//zoh-hokej-2026-ics//CZ
 X-WR-CALNAME:ZOH 2026 – hokej (muži)
 X-WR-TIMEZONE:Europe/Prague
 BEGIN:VEVENT
-SUMMARY:👨 🇨🇿 Česko – 🇨🇦 Kanada
+SUMMARY:👨 🇨🇿 Česko – 🇨🇦 Kanada 0:5 (FT)
 DTSTART;TZID=Europe/Prague:20260212T164000
 DTEND;TZID=Europe/Prague:20260212T194000
 UID:4177a27052abbcd5f54dd08c14349bf9e799a383@zoh-hokej-ics
-DESCRIPTION:Skupina A\nPalaItalia \, Milan
+DESCRIPTION:Skupina A\nPalaItalia \, Milan Attendance: 11\,451
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 🇫🇷 Francie – 🇨🇿 Česko

@@ -32,17 +32,17 @@ UID:7ca8bebdc37fe4b1f36ca376eacdbc70eec80474@zoh-hokej-ics
 DESCRIPTION:Skupina A\nFiera Milano \, Milan Attendance: 3\,901
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 🇨🇿 Česko – 🇨🇦 Kanada
+SUMMARY:👨 🇨🇿 Česko – 🇨🇦 Kanada 0:5 (FT)
 DTSTART;TZID=Europe/Prague:20260212T164000
 DTEND;TZID=Europe/Prague:20260212T194000
 UID:4177a27052abbcd5f54dd08c14349bf9e799a383@zoh-hokej-ics
-DESCRIPTION:Skupina A\nPalaItalia \, Milan
+DESCRIPTION:Skupina A\nPalaItalia \, Milan Attendance: 11\,451
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Čtvrtfinále 1
+SUMMARY:👩 🇨🇿 Česko – 🇸🇪 Švédsko
 DTSTART;TZID=Europe/Prague:20260213T164000
 DTEND;TZID=Europe/Prague:20260213T194000
-UID:51f73424168edaac57e711c5e1b7ee6a15a2067d@zoh-hokej-ics
+UID:3b81888de555230d2c47c3cbb502e52bd6b11e8e@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
@@ -60,17 +60,17 @@ UID:72e14ca4a08274328641231bc8494ded90f6c3e3@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Čtvrtfinále 3
+SUMMARY:👩 🇨🇦 Kanada – 🇩🇪 Německo
 DTSTART;TZID=Europe/Prague:20260214T164000
 DTEND;TZID=Europe/Prague:20260214T194000
-UID:231d1490a07d869e941326660a04f8e72a41eaae@zoh-hokej-ics
+UID:fe1aa14ee6397d09efa9f344791e5e31197a454b@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Čtvrtfinále 4
+SUMMARY:👩 🇫🇮 Finsko – 🇨🇭 Švýcarsko
 DTSTART;TZID=Europe/Prague:20260214T211000
 DTEND;TZID=Europe/Prague:20260215T001000
-UID:e366dceb23549ae9e927dfef6603737ce804e072@zoh-hokej-ics
+UID:5171e84fd30bcedde7269fdc5060dfb15f7b3f6d@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
