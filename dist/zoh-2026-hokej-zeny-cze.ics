@@ -32,11 +32,11 @@ UID:7ca8bebdc37fe4b1f36ca376eacdbc70eec80474@zoh-hokej-ics
 DESCRIPTION:Skupina A\nFiera Milano \, Milan Attendance: 3\,901
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇨🇿 Česko – 🇸🇪 Švédsko
+SUMMARY:👩 🇨🇿 Česko – 🇸🇪 Švédsko 0:2 (FT)
 DTSTART;TZID=Europe/Prague:20260213T164000
 DTEND;TZID=Europe/Prague:20260213T194000
 UID:3b81888de555230d2c47c3cbb502e52bd6b11e8e@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,360
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 🇺🇸 USA – 🇮🇹 Itálie
