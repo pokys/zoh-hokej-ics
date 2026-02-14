@@ -46,11 +46,11 @@ UID:72e14ca4a08274328641231bc8494ded90f6c3e3@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,930
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇨🇦 Kanada – 🇩🇪 Německo
+SUMMARY:👩 🇨🇦 Kanada – 🇩🇪 Německo 5:1 (FT)
 DTSTART;TZID=Europe/Prague:20260214T164000
 DTEND;TZID=Europe/Prague:20260214T194000
 UID:fe1aa14ee6397d09efa9f344791e5e31197a454b@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,913
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 🇫🇮 Finsko – 🇨🇭 Švýcarsko
