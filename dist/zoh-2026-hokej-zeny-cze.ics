@@ -39,11 +39,11 @@ UID:3b81888de555230d2c47c3cbb502e52bd6b11e8e@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,360
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇺🇸 USA – 🇮🇹 Itálie
+SUMMARY:👩 🇺🇸 USA – 🇮🇹 Itálie 6:0 (FT)
 DTSTART;TZID=Europe/Prague:20260213T211000
 DTEND;TZID=Europe/Prague:20260214T001000
 UID:72e14ca4a08274328641231bc8494ded90f6c3e3@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👩 🇨🇦 Kanada – 🇩🇪 Německo
