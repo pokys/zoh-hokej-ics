@@ -53,24 +53,24 @@ UID:fe1aa14ee6397d09efa9f344791e5e31197a454b@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,913
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇫🇮 Finsko – 🇨🇭 Švýcarsko
+SUMMARY:👩 🇫🇮 Finsko – 🇨🇭 Švýcarsko 0:1 (FT)
 DTSTART;TZID=Europe/Prague:20260214T211000
 DTEND;TZID=Europe/Prague:20260215T001000
 UID:5171e84fd30bcedde7269fdc5060dfb15f7b3f6d@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,686
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Semifinále 1
+SUMMARY:👩 🇺🇸 USA – 🇸🇪 Švédsko
 DTSTART;TZID=Europe/Prague:20260216T164000
 DTEND;TZID=Europe/Prague:20260216T194000
-UID:4aafd9f643d33f34a4ba0c7ba2b5420d354f48be@zoh-hokej-ics
+UID:787fb3280fb98e81fb1b7cc249170a61ff6321a8@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 Semifinále 2
+SUMMARY:👩 🇨🇦 Kanada – 🇨🇭 Švýcarsko
 DTSTART;TZID=Europe/Prague:20260216T211000
 DTEND;TZID=Europe/Prague:20260217T001000
-UID:d4565e0b310d97655de999c0ecce4f3518f95123@zoh-hokej-ics
+UID:edc3316e97214f65a8db6f099b08b745a8d68ebd@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
