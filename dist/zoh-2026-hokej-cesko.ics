@@ -95,31 +95,38 @@ UID:edc3316e97214f65a8db6f099b08b745a8d68ebd@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:👨 🇨🇿 Česko – 🇩🇰 Dánsko
+DTSTART;TZID=Europe/Prague:20260217T164000
+DTEND;TZID=Europe/Prague:20260217T194000
+UID:e64ab83642ac9ed18cd8634f460249b9fe06cd3a@zoh-hokej-ics
+DESCRIPTION:Skupina\nPalaItalia \, Milan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 1
 DTSTART;TZID=Europe/Prague:20260218T121000
 DTEND;TZID=Europe/Prague:20260218T151000
-UID:a4d08b1f80fce9ec4f163436e4121e4af6592103@zoh-hokej-ics
+UID:b4048c5aab1acd76471b84d64d5d10a511d92864@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 2
 DTSTART;TZID=Europe/Prague:20260218T164000
 DTEND;TZID=Europe/Prague:20260218T194000
-UID:ed2d6522645eaf12dcfc705c65cdeb10b242172f@zoh-hokej-ics
+UID:9ca756b9c3211be624ad1d7ec796383b8a1eabaf@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 3
 DTSTART;TZID=Europe/Prague:20260218T181000
 DTEND;TZID=Europe/Prague:20260218T211000
-UID:308d594954b640ab5f49ba0b50af614000a7ad7e@zoh-hokej-ics
+UID:927f22d16527612c4ffd9b5bdd0105af862ae5eb@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 Čtvrtfinále 4
 DTSTART;TZID=Europe/Prague:20260218T211000
 DTEND;TZID=Europe/Prague:20260219T001000
-UID:6185892279580d4dca9bd01cd4830e5edf54a67b@zoh-hokej-ics
+UID:bb4f6ba6f6bd2d23326850ada1bc37828b6d6161@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
