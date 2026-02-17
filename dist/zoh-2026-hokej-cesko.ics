@@ -95,31 +95,31 @@ UID:edc3316e97214f65a8db6f099b08b745a8d68ebd@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan Attendance: 9\,662
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 🇨🇿 Česko – 🇩🇰 Dánsko
+SUMMARY:👨 🇨🇿 Česko – 🇩🇰 Dánsko 3:2 (FT)
 DTSTART;TZID=Europe/Prague:20260217T164000
 DTEND;TZID=Europe/Prague:20260217T194000
 UID:e64ab83642ac9ed18cd8634f460249b9fe06cd3a@zoh-hokej-ics
-DESCRIPTION:Skupina\nPalaItalia \, Milan
+DESCRIPTION:Skupina\nPalaItalia \, Milan Attendance: 10\,364
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Čtvrtfinále 1
+SUMMARY:👨 🇸🇰 Slovensko – 🇩🇪 Německo
 DTSTART;TZID=Europe/Prague:20260218T121000
 DTEND;TZID=Europe/Prague:20260218T151000
-UID:b4048c5aab1acd76471b84d64d5d10a511d92864@zoh-hokej-ics
+UID:6cfce18d291542eb8ecd2d337703187896411bcf@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Čtvrtfinále 2
+SUMMARY:👨 🇨🇦 Kanada – 🇨🇿 Česko
 DTSTART;TZID=Europe/Prague:20260218T164000
 DTEND;TZID=Europe/Prague:20260218T194000
-UID:9ca756b9c3211be624ad1d7ec796383b8a1eabaf@zoh-hokej-ics
+UID:985226c02a72ee0f24d19435f75017b40b08607e@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Čtvrtfinále 3
+SUMMARY:👨 🇫🇮 Finsko – 🇨🇭 Švýcarsko
 DTSTART;TZID=Europe/Prague:20260218T181000
 DTEND;TZID=Europe/Prague:20260218T211000
-UID:927f22d16527612c4ffd9b5bdd0105af862ae5eb@zoh-hokej-ics
+UID:0e857b82ad35b40c1a1240a7abaf806852d21500@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
