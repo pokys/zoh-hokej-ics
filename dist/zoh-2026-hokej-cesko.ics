@@ -116,11 +116,11 @@ UID:985226c02a72ee0f24d19435f75017b40b08607e@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan Attendance: 10\,984
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 🇫🇮 Finsko – 🇨🇭 Švýcarsko
+SUMMARY:👨 🇫🇮 Finsko – 🇨🇭 Švýcarsko 3:2 (OT)
 DTSTART;TZID=Europe/Prague:20260218T181000
 DTEND;TZID=Europe/Prague:20260218T211000
 UID:0e857b82ad35b40c1a1240a7abaf806852d21500@zoh-hokej-ics
-DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
+DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan Attendance: 3\,090
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👨 🇺🇸 USA – 🇸🇪 Švédsko
