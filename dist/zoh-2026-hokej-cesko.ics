@@ -123,10 +123,10 @@ UID:0e857b82ad35b40c1a1240a7abaf806852d21500@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nFiera Milano \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Čtvrtfinále 4
+SUMMARY:👨 🇺🇸 USA – 🇸🇪 Švédsko
 DTSTART;TZID=Europe/Prague:20260218T211000
 DTEND;TZID=Europe/Prague:20260219T001000
-UID:bb4f6ba6f6bd2d23326850ada1bc37828b6d6161@zoh-hokej-ics
+UID:111b0f8df2b49a41a04977ada46bfefcc269feb4@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
