@@ -129,6 +129,7 @@ PHASE_CZ = {
 
 PLAYOFF_PHASES = {"quarterfinals", "semifinals", "bronze", "gold"}
 GENDER_EMOJI = {"women": "👩", "men": "👨"}
+MEDAL_EMOJI = {"bronze": "🥉", "gold": "🥇"}
 
 
 @dataclass
@@ -760,7 +761,9 @@ def assign_playoff_indices(games: List[Game]) -> None:
 
 def build_summary(game: Game) -> str:
     emoji = GENDER_EMOJI.get(game.category, "")
-    prefix = f"{emoji} " if emoji else ""
+    medal = MEDAL_EMOJI.get(game.phase_key, "")
+    prefix_parts = [p for p in [emoji, medal] if p]
+    prefix = f"{' '.join(prefix_parts)} " if prefix_parts else ""
     if game.phase_key in PLAYOFF_PHASES and (game.team1 == "TBD" or game.team2 == "TBD"):
         index = game.playoff_index or 1
         return f"{prefix}{PHASE_CZ[game.phase_key]} {index}"
