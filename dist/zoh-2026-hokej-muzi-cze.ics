@@ -74,17 +74,17 @@ UID:b5f59aea2340c784cd5fe4cd0303458000fb984a@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 🥉 O bronz 1
+SUMMARY:👨 🥉 🇸🇰 Slovensko – 🇫🇮 Finsko
 DTSTART;TZID=Europe/Prague:20260221T204000
 DTEND;TZID=Europe/Prague:20260221T234000
-UID:2c4c88ccc4be9fdd0a4ecd18616185b0fac6b715@zoh-hokej-ics
+UID:05ed65bfb45f75132230242de096a2c5c704b85c@zoh-hokej-ics
 DESCRIPTION:O bronz\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 🥇 Finále 1
+SUMMARY:👨 🥇 🇨🇦 Kanada – 🇺🇸 USA
 DTSTART;TZID=Europe/Prague:20260222T141000
 DTEND;TZID=Europe/Prague:20260222T171000
-UID:62fdb24575ff292014cf9c86f55a761276b58177@zoh-hokej-ics
+UID:9530c2288c27128f6522ae31223b6b3ab02dfeeb@zoh-hokej-ics
 DESCRIPTION:Finále\nPalaItalia \, Milan
 END:VEVENT
 END:VCALENDAR
