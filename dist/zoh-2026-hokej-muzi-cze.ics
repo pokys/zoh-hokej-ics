@@ -74,14 +74,14 @@ UID:b5f59aea2340c784cd5fe4cd0303458000fb984a@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 O bronz 1
+SUMMARY:👨 🥉 O bronz 1
 DTSTART;TZID=Europe/Prague:20260221T204000
 DTEND;TZID=Europe/Prague:20260221T234000
 UID:d1fd9b35ce593116c6b286a1e92d18ae0bcf9f21@zoh-hokej-ics
 DESCRIPTION:O bronz\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Finále 1
+SUMMARY:👨 🥇 Finále 1
 DTSTART;TZID=Europe/Prague:20260222T141000
 DTEND;TZID=Europe/Prague:20260222T171000
 UID:a879d61cea29d70c035681ebcf795bad18b414ca@zoh-hokej-ics

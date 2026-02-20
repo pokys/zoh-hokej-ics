@@ -130,14 +130,14 @@ UID:111b0f8df2b49a41a04977ada46bfefcc269feb4@zoh-hokej-ics
 DESCRIPTION:Čtvrtfinále\nPalaItalia \, Milan Attendance: 11\,097
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇨🇭 Švýcarsko – 🇸🇪 Švédsko 2:1 (OT)
+SUMMARY:👩 🥉 🇨🇭 Švýcarsko – 🇸🇪 Švédsko 2:1 (OT)
 DTSTART;TZID=Europe/Prague:20260219T144000
 DTEND;TZID=Europe/Prague:20260219T174000
 UID:d47e457fc0120312e9661441d9859930d7b50697@zoh-hokej-ics
 DESCRIPTION:O bronz\nPalaItalia \, Milan Attendance: 8\,243
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇺🇸 USA – 🇨🇦 Kanada 2:1 (OT)
+SUMMARY:👩 🥇 🇺🇸 USA – 🇨🇦 Kanada 2:1 (OT)
 DTSTART;TZID=Europe/Prague:20260219T191000
 DTEND;TZID=Europe/Prague:20260219T221000
 UID:41bb610bd7c539cc563744ab1cacf21dfdac360f@zoh-hokej-ics
@@ -158,14 +158,14 @@ UID:b5f59aea2340c784cd5fe4cd0303458000fb984a@zoh-hokej-ics
 DESCRIPTION:Semifinále\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 O bronz 1
+SUMMARY:👨 🥉 O bronz 1
 DTSTART;TZID=Europe/Prague:20260221T204000
 DTEND;TZID=Europe/Prague:20260221T234000
 UID:d1fd9b35ce593116c6b286a1e92d18ae0bcf9f21@zoh-hokej-ics
 DESCRIPTION:O bronz\nPalaItalia \, Milan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👨 Finále 1
+SUMMARY:👨 🥇 Finále 1
 DTSTART;TZID=Europe/Prague:20260222T141000
 DTEND;TZID=Europe/Prague:20260222T171000
 UID:a879d61cea29d70c035681ebcf795bad18b414ca@zoh-hokej-ics
