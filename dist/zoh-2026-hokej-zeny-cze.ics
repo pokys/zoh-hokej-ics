@@ -81,10 +81,10 @@ UID:d47e457fc0120312e9661441d9859930d7b50697@zoh-hokej-ics
 DESCRIPTION:O bronz\nPalaItalia \, Milan Attendance: 8\,243
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👩 🇺🇸 USA – 🇨🇦 Kanada
+SUMMARY:👩 🇺🇸 USA – 🇨🇦 Kanada 2:1 (OT)
 DTSTART;TZID=Europe/Prague:20260219T191000
 DTEND;TZID=Europe/Prague:20260219T221000
 UID:41bb610bd7c539cc563744ab1cacf21dfdac360f@zoh-hokej-ics
-DESCRIPTION:Finále\nPalaItalia \, Milan
+DESCRIPTION:Finále\nPalaItalia \, Milan Attendance: 11\,171
 END:VEVENT
 END:VCALENDAR
